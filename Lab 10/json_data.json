@@ -1,0 +1,10 @@
+{
+     "name": "Bob",
+     "languages": [
+          "English",
+          "French"
+     ],
+     "age": 20,
+     "gender": "Female",
+     "highest_degree": "Graduate"
+}
